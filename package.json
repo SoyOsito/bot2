@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/SoyOsito/bot2/edit/main/package.json",
+"homepage": "https://github.com/SoyOsito/bot2/blob/main/package.json",
 "author": {
 "name": "OsoBot-MD" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/SoyOsito/bot2/edit/main/package.json" },
+"url": "git+https://github.com/SoyOsito/bot2/blob/main/package.json" },
 
 "bugs": {
-"url": "https://github.com/SoyOsito/bot2/edit/main/package.jsonissues" },
+"url": "https://github.com/SoyOsito/bot2/blob/main/package.json" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
