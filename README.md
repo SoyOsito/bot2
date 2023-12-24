@@ -74,7 +74,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/gata.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/SoyOsito/bot2/blob/main/package.json)
+#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/SoyOsito/bot2.git)
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
